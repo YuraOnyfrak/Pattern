@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\obj\Debug\Bridge(Structure patern).csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\obj\Debug\Bridge(Structure patern).csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\bin\Debug\Bridge(Structure patern).exe.config
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\bin\Debug\Bridge(Structure patern).exe
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\bin\Debug\Bridge(Structure patern).pdb
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\obj\Debug\Bridge(Structure patern).exe
+E:\Програмування\Програми\Pattern\Pattern\Bridge(Structure patern)\obj\Debug\Bridge(Structure patern).pdb

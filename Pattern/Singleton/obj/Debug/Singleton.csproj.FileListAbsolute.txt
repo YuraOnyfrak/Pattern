@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Singleton\bin\Debug\Singleton.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Singleton\bin\Debug\Singleton.exe
+E:\Програмування\Програми\Pattern\Pattern\Singleton\bin\Debug\Singleton.pdb
+E:\Програмування\Програми\Pattern\Pattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Singleton\obj\Debug\Singleton.exe
+E:\Програмування\Програми\Pattern\Pattern\Singleton\obj\Debug\Singleton.pdb

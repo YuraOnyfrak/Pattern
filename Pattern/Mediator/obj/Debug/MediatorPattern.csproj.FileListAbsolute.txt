@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Mediator\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Mediator\obj\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Mediator\bin\Debug\Mediator.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Mediator\bin\Debug\Mediator.exe
+E:\Програмування\Програми\Pattern\Pattern\Mediator\bin\Debug\Mediator.pdb
+E:\Програмування\Програми\Pattern\Pattern\Mediator\obj\Debug\Mediator.exe
+E:\Програмування\Програми\Pattern\Pattern\Mediator\obj\Debug\Mediator.pdb

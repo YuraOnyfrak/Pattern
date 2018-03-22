@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\Програмування\Програми\Pattern\Pattern\AbstractFactory\obj\Debug\AbstractFactory.pdb

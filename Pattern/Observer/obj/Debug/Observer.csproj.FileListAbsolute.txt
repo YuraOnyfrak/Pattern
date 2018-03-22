@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Observer\bin\Debug\Observer.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Observer\bin\Debug\Observer.exe
+E:\Програмування\Програми\Pattern\Pattern\Observer\bin\Debug\Observer.pdb
+E:\Програмування\Програми\Pattern\Pattern\Observer\obj\Debug\Observer.exe
+E:\Програмування\Програми\Pattern\Pattern\Observer\obj\Debug\Observer.pdb

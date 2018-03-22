@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Pattern\obj\Debug\Pattern.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Pattern\bin\Debug\Pattern.exe
+E:\Програмування\Програми\Pattern\Pattern\Pattern\bin\Debug\Pattern.pdb
+E:\Програмування\Програми\Pattern\Pattern\Pattern\obj\Debug\Pattern.exe
+E:\Програмування\Програми\Pattern\Pattern\Pattern\obj\Debug\Pattern.pdb

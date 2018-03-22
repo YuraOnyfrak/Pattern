@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Visitor\bin\Debug\Visitor.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Visitor\bin\Debug\Visitor.exe
+E:\Програмування\Програми\Pattern\Pattern\Visitor\bin\Debug\Visitor.pdb
+E:\Програмування\Програми\Pattern\Pattern\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Visitor\obj\Debug\Visitor.exe
+E:\Програмування\Програми\Pattern\Pattern\Visitor\obj\Debug\Visitor.pdb

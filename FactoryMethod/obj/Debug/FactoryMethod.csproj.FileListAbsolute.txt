@@ -1,0 +1,6 @@
+E:\Програмування\Програми\Pattern\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+E:\Програмування\Програми\Pattern\FactoryMethod\bin\Debug\FactoryMethod.exe
+E:\Програмування\Програми\Pattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\Програмування\Програми\Pattern\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\FactoryMethod\obj\Debug\FactoryMethod.exe
+E:\Програмування\Програми\Pattern\FactoryMethod\obj\Debug\FactoryMethod.pdb

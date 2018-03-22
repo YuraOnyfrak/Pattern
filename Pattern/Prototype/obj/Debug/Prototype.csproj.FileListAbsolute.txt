@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\Prototype\bin\Debug\Prototype.exe.config
+E:\Програмування\Програми\Pattern\Pattern\Prototype\bin\Debug\Prototype.exe
+E:\Програмування\Програми\Pattern\Pattern\Prototype\bin\Debug\Prototype.pdb
+E:\Програмування\Програми\Pattern\Pattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\Prototype\obj\Debug\Prototype.exe
+E:\Програмування\Програми\Pattern\Pattern\Prototype\obj\Debug\Prototype.pdb

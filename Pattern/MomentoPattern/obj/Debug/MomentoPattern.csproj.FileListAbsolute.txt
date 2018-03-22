@@ -1,0 +1,7 @@
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\bin\Debug\MomentoPattern.exe.config
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\bin\Debug\MomentoPattern.exe
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\bin\Debug\MomentoPattern.pdb
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\obj\Debug\MomentoPattern.csprojResolveAssemblyReference.cache
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\obj\Debug\MomentoPattern.csproj.CoreCompileInputs.cache
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\obj\Debug\MomentoPattern.exe
+E:\Програмування\Програми\Pattern\Pattern\MomentoPattern\obj\Debug\MomentoPattern.pdb
